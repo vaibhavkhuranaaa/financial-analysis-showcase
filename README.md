@@ -17,20 +17,21 @@ A similar approach and more extensive approach was used in one of my projects wh
 
 Usage Instructions:
 
-- ##Clone the repository:
+- Clone the repository:
 git clone https://github.com/vaibhavkhuranaaa/financial-analysis-showcase.git
 
-- ##Navigate to the repository's directory:
+- Navigate to the repository's directory:
 cd financial-analysis-showcase
 
-- ##Install the required libraries:
+- Install the required libraries:
 pip install pandas numpy scikit-learn
 
-- ##Run the scripts:
+- Run the scripts:
 python fundamental_technical_analysis.py
 python investment_recommendation.py
 
-##Important Note 
+
+Important Note 
 The code provided in this repository is meant to showcase financial analysis skills and does not contain real data. The example code demonstrates the application of various techniques, libraries, and methodologies commonly used in financial analysis. Please ensure that you adhere to ethical practices when working with real data.
 
 ##Feel free to customize the repository structure, README file, and instructions based on your preferences and requirements.

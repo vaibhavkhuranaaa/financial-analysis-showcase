@@ -17,16 +17,16 @@ A similar approach and more extensive approach was used in one of my projects wh
 
 Usage Instructions:
 
-- ###Clone the repository:
+- ##Clone the repository:
 git clone https://github.com/vaibhavkhuranaaa/financial-analysis-showcase.git
 
-- ###Navigate to the repository's directory:
+- ##Navigate to the repository's directory:
 cd financial-analysis-showcase
 
-- ###Install the required libraries:
+- ##Install the required libraries:
 pip install pandas numpy scikit-learn
 
-- ###Run the scripts:
+- ##Run the scripts:
 python fundamental_technical_analysis.py
 python investment_recommendation.py
 
